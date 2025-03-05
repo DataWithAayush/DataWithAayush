@@ -6,17 +6,6 @@ I am an aspiring Data Analyst passionate about turning data into insights. With 
 
 Let's dive into my GitHub profile and explore my work in more detail!
 
-### 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DataWithAayush&show_icons=true)
-
-### 🔥 My Top Repositories
-  
-#### [DataWithAayush](https://github.com/DataWithAayush/DataWithAayush)
-DataWithAayush serves as my portfolio, showcasing a collection of my data analysis projects. It highlights my proficiency in various tools and languages, including SQL, Python, Power BI, and Excel.
-
-#### [netflix_sql_project](https://github.com/DataWithAayush/netflix_sql_project)
-This repository exemplifies my interest in analyzing data related to Netflix. With a data-driven approach, I have explored the Netflix dataset using SQL, providing valuable insights and visualizations.
-
 ### 💻 Skills and Expertise
 - SQL
 - Python
@@ -27,8 +16,8 @@ This repository exemplifies my interest in analyzing data related to Netflix. Wi
 Passionate about turning data into insights, I am constantly seeking new opportunities to enhance my data analysis skills. Data-driven decision-making intrigues me, and I'm eager to contribute to projects and collaborate with like-minded individuals.
 
 ### 📞 Contact Information
-- Email: aayush.jain@example.com
-- LinkedIn: [Aayush Jain](https://www.linkedin.com/in/aayush-jain)
+- Email: aayushj43@gmail.com
+- LinkedIn: [Aayush Jain](www.linkedin.com/in/datawithaayush)
 
 ### 🌟 Analysis and Introduction
 
